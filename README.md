@@ -3,9 +3,8 @@
 A full-stack **Garage Service Management System** built with **Node.js, Express, MySQL, and React**.  
 This project provides an **Admin Dashboard** to manage customers, employees, vehicles, services, and orders, making garage operations efficient and organized.
 
-🔗 Live Demo
-
-AutoPro Garage Service Management System Live Demo
+🔗 Live Demo 
+https://garage-service-app.vercel.app/
 
 ---
 
